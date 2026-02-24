@@ -1,23 +1,65 @@
-# Hi 👋, I'm Yaqil Badurdeen
-
-### Software Developer 
-
-- 🔭 I'm currently working on **Peerlit — a study-group finder platform that helps students connect, collaborate, and share knowledge.**
-
-- 🌱 I'm currently learning **TypeScript, React, Node.js, MongoDB, SQL, and scalable backend development. Strengthening Java and Python skills while building full-stack applications.**
-
-- 👯 I'm looking to collaborate on **Open-source projects related to education, productivity tools, AI applications, and full-stack platforms.**
-
-- 📫 How to reach me **yaqilbadur@gmail.com**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1RTdNU2H1WzvKDdoGHgWelfQ8IfNaTKON/view?usp=drive_link](https://drive.google.com/file/d/1RTdNU2H1WzvKDdoGHgWelfQ8IfNaTKON/view?usp=drive_link)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Yaqildeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Yaqildeen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yaqil-badurdeen-b17937267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yaqil-badurdeen-b17937267/" height="30" width="40" /></a>
+<!-- Typing Animation Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Yaqil+Badurdeen;Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+<h1 align="center">👋 Yaqil Badurdeen</h1>
+<h3 align="center">💻 Full-Stack Developer | Software Engineer</h3>
 
+---
+
+### 🚀 About Me
+
+I build scalable full-stack applications focused on performance, clean architecture, and real-world impact.  
+Currently developing **Peerlit**, a study-group finder platform that helps students collaborate and learn together.
+
+- 🔭 Building **Peerlit — Study Group Finder Platform**
+- 🌱 Learning **System Design & Scalable Backend Architecture**
+- 🧠 Strengthening **Java & Python**
+- 🤝 Open to **Open-Source, EdTech, AI & Full-Stack Projects**
+
+---
+
+### ⚡ Animated Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,express,mongodb,mysql,html,css,tailwind,docker,git,linux,figma,postman&perline=8" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yaqildeen&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaqildeen&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yaqildeen&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 📫 Contact
+
+- 📧 yaqilbadur@gmail.com  
+- 📄 Resume:  
+https://drive.google.com/file/d/1RTdNU2H1WzvKDdoGHgWelfQ8IfNaTKON/view?usp=drive_link
+
+---
+
+### 🌐 Connect
+
+<p align="left">
+<a href="https://github.com/Yaqildeen"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<a href="https://www.linkedin.com/in/yaqil-badurdeen-b17937267/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+</p>
+
+---
+
+⭐ Always building. Always improving.
